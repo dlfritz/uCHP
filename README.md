@@ -11,7 +11,7 @@ combustion engines, gas turbines, fuel cells, photo voltaic and wind turbines.
 # What is included?
 
 This package is currently under development and none of the functions are in 
-working order. The current files in this package are:
-uCHP_Randbedingung.dat --> Boundary condition input file
-uCHP_Simulation.py     --> Main simulation file
-uCHP_Thermalspeicher.py--> Heat transfer module
+working order. The current files in this package are: <br />
+uCHP_Randbedingung.dat --> Boundary condition input file <br />
+uCHP_Simulation.py     --> Main simulation file <br />
+uCHP_Thermalspeicher.py--> Heat transfer module <br />
